@@ -1,5 +1,14 @@
 # 📚 Snippets Library
 
+
+# 📚 Snippets Library
+
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
+![Repo size](https://img.shields.io/github/repo-size/JessyGirard/snippets)
+![Last commit](https://img.shields.io/github/last-commit/JessyGirard/snippets)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
 Welcome to my personal **snippets library** 🎉  
 This repo is where I collect useful code templates, references, and small examples for quick reuse.
 
