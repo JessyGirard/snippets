@@ -36,4 +36,5 @@ This repo is where I collect useful code templates, references, and small exampl
 
 Clone the repo locally:
 ```bash
-git clone https://github.com/JessyGirard/snippets.git
+git clone https://github.com/JessyGirard/snippets.git Code
+
