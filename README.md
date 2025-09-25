@@ -39,3 +39,21 @@ Clone the repo locally:
 git clone https://github.com/JessyGirard/snippets.git 
 
 
+## 🤝 Contributing
+
+Contributions are welcome!  
+If you’d like to add a snippet, fork the repo and open a pull request — or simply suggest ideas in the issues tab.  
+
+Steps:
+1. Fork this repo
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Commit your changes (`git commit -m "Add new snippet"`)
+4. Push to your branch (`git push origin feature-branch`)
+5. Open a Pull Request
+
+
+## 📜 License
+
+This project is licensed under the MIT License.  
+You’re free to use, copy, modify, and distribute these snippets as you like.  
+See the [LICENSE](LICENSE) file for details.
