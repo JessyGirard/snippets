@@ -1,4 +1,4 @@
-# 📚 Snippets Library
+# 📚 Snippets Library             🔙 [Back to JessyWiki Wiki](https://github.com/JessyGirard/JessyWiki/wiki)
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
 ![Repo size](https://img.shields.io/github/repo-size/JessyGirard/snippets)
