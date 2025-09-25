@@ -1,0 +1,14 @@
+
+is called a **fenced code block** in Markdown.  
+
+Here’s how it works:
+
+- The **three backticks** (```) open and close the block.  
+- Right after the opening backticks, you can specify a **language hint** (like `bash`, `python`, `json`, etc.). That’s why you wrote ` ```bash `.  
+- GitHub and VS Code use that hint for **syntax highlighting** — so your commands look colorful and easier to read.  
+
+So in your case, ` ```bash ... ``` ` means: *“Render the text inside this block as Bash shell code.”*  
+
+If you had written ` ```python `, it would highlight Python syntax instead.  
+
+Do you want me to show you a mini demo — the same snippet rendered in **plain**, **bash**, and **python** styles — so you can see the difference side by side?
