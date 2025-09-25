@@ -68,3 +68,5 @@ See the [LICENSE](LICENSE) file for details.
 - Include more JSON formatting and parsing tricks
 - Improve documentation and code comments as the library grows
 
+
+🔙 [Back to JessyWiki Wiki](https://github.com/JessyGirard/JessyWiki/wiki)
