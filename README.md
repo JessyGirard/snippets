@@ -57,3 +57,13 @@ Steps:
 This project is licensed under the MIT License.  
 You’re free to use, copy, modify, and distribute these snippets as you like.  
 See the [LICENSE](LICENSE) file for details.
+
+
+## 🔮 Future Improvements
+
+- Add more Python utilities and helper functions
+- Expand Flask examples with authentication and database integration
+- Collect advanced SQL query patterns
+- Include more JSON formatting and parsing tricks
+- Improve documentation and code comments as the library grows
+
